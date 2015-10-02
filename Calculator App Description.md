@@ -1,6 +1,7 @@
 # SIMPLE CALCULATOR
 ## Description:
 Implement a simple calculator of positive numbers that has this UI:
+
 ![layout.png](https://bitbucket.org/repo/AARp7y/images/3958247525-layout.png)
 
 ![layout_land.png](https://bitbucket.org/repo/AARp7y/images/3076057699-layout_land.png)
