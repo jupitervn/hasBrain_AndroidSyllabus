@@ -1,6 +1,6 @@
-Android Syllabus
+**Android Syllabus**
 ======
-# Java and OOP
+# **Java and OOP**
 ______
 ## Java Programming
 1. Basic: <http://www.ntu.edu.sg/home/ehchua/programming/java/J2_Basics.html>
@@ -13,7 +13,7 @@ ______
         http://www.ntu.edu.sg/home/ehchua/programming/java/J3b_OOPInheritancePolymorphism.html
 3. Java collections: List/Set/Map/Queue: <https://docs.oracle.com/javase/tutorial/collections/>
 4. Generic: https://docs.oracle.com/javase/tutorial/java/generics/
-# Basic Android
+# **Basic Android**
 ______
 ## Setup Environment
 1. Android SDK: https://developer.android.com/intl/zh-cn/sdk/index.html
@@ -39,6 +39,7 @@ ______
     * http://developer.android.com/intl/zh-cn/reference/android/widget/GridLayout.html
     * https://developer.android.com/intl/zh-cn/reference/android/support/percent/PercentFrameLayout.html
 3. Layout performance and optimization http://developer.android.com/intl/zh-cn/training/improving-layouts/optimizing-layout.html
+###**Exercise1** [[Calculator App Description]]
 ### Intent and intent filters: What is intent, kind of intent, intent filter and intent matching
 http://developer.android.com/intl/zh-cn/guide/components/intents-filters.html
 ### Access resources and builds app that supports multiple devices:
