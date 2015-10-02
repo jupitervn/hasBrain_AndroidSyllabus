@@ -109,9 +109,10 @@ Should know some common attributes and listeners of each control
 1. Some architecture to care about: MVP, MVVM…
 2. More gradle configurations
 3. Continuous integration/delivery
+
 ## References:
-    * https://developer.android.com/intl/zh-cn/training/index.html
-    * https://guides.codepath.com/android
+1. https://developer.android.com/intl/zh-cn/training/index.html
+2. https://guides.codepath.com/android
 
 
 
