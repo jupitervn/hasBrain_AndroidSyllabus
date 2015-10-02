@@ -26,64 +26,64 @@ ______
 ## App fundamentals and manifest file
 1. Should know 4 type of app components. http://developer.android.com/intl/zh-cn/guide/components/fundamentals.html
 2. Should know what is manifest file and which can be configured inside that file. http://developer.android.com/intl/zh-cn/guide/topics/manifest/manifest-intro.html
-### Activities, fragments and their lifecycles.
+## Activities, fragments and their lifecycles.
 1. Activity: How to start an activity? What can be configured for Activity inside Manifest file. http://developer.android.com/intl/zh-cn/guide/components/activities.html
 2. Fragment: Purpose of fragment? How to add a fragment? setRetainInstance()? http://developer.android.com/intl/zh-cn/guide/components/fragments.html
 3. Lifecycle of these components when configuration changes or app gets killed by system? https://github.com/xxv/android-lifecycle
-### UI controls: Button, EditText, TextView, SeekBar, CheckBox, AutocompleteTextView...
+## UI controls: Button, EditText, TextView, SeekBar, CheckBox, AutocompleteTextView...
 1. Learn about Android input controls: http://developer.android.com/intl/zh-cn/guide/topics/ui/controls.html
 2. Should know some common attributes and listeners of each control
-### Basic layouts: FrameLayout, LinearLayout, RelativeLayout
+## Basic layouts: FrameLayout, LinearLayout, RelativeLayout
 1. Main layouts of Android: http://developer.android.com/intl/zh-cn/guide/topics/ui/declaring-layout.html
 2. Additional layouts: GridLayout, PercentageLayout 
     * http://developer.android.com/intl/zh-cn/reference/android/widget/GridLayout.html
     * https://developer.android.com/intl/zh-cn/reference/android/support/percent/PercentFrameLayout.html
 3. Layout performance and optimization http://developer.android.com/intl/zh-cn/training/improving-layouts/optimizing-layout.html
 ###**Exercise1** [[Calculator App Description]]
-### Intent and intent filters: What is intent, kind of intent, intent filter and intent matching
+## Intent and intent filters: What is intent, kind of intent, intent filter and intent matching
 http://developer.android.com/intl/zh-cn/guide/components/intents-filters.html
-### Access resources and builds app that supports multiple devices:
+## Access resources and builds app that supports multiple devices:
 1. How to support multiple devices with different screen sizes: http://developer.android.com/intl/zh-cn/guide/topics/resources/index.html
 2. How to supports multiple languages
-### Listview/ExpandableListView/GridView/Recylerview and recycle mechanism
+## Listview/ExpandableListView/GridView/Recylerview and recycle mechanism
 1. ListView: http://www.vogella.com/tutorials/AndroidListView/article.html 
 2. GridView: http://www.tutorialspoint.com/android/android_grid_view.htm
 3. ExpandableListView: http://javapapers.com/android/android-expandable-listview/
 4. RecyclerView: http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465
 5. Recycle mechanism, view holder pattern: http://lucasr.org/2012/04/05/performance-tips-for-androids-listview/
-### GridLayout, ViewPager/TabLayout
+## GridLayout, ViewPager/TabLayout
 1. ViewPager: http://code.tutsplus.com/tutorials/android-user-interface-design-horizontal-view-paging--mobile-8231
 2. TabLayout: https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout
 3. GridLayout: http://android-developers.blogspot.com/2011/11/new-layout-widgets-space-and-gridlayout.html
-### Dialogs/Toasts/Notification
+## Dialogs/Toasts/Notification
 1. Dialogs: dialog and dialog fragment http://developer.android.com/intl/zh-cn/guide/topics/ui/dialogs.html
 2. Notification: http://developer.android.com/intl/zh-cn/guide/topics/ui/notifiers/notifications.html
 3. Toasts: http://developer.android.com/intl/zh-cn/guide/topics/ui/notifiers/toasts.html
-### Menus/ActionBar/Toolbar
+## Menus/ActionBar/Toolbar
 1. Menus: http://developer.android.com/intl/zh-cn/guide/topics/ui/menus.html
 2. ActionBar: http://developer.android.com/intl/zh-cn/guide/topics/ui/actionbar.html
 3. Toolbar: https://developer.android.com/intl/zh-cn/reference/android/widget/Toolbar.htm
-### Styles/Themes:
+## Styles/Themes:
 1. General styles and themes: should know how to use styles, themes http://developer.android.com/intl/zh-cn/guide/topics/ui/themes.html
 2. Appcompat themes and material design: https://chris.banes.me/2014/10/17/appcompat-v21/
-### Simple data storage: file/shared preferences/sqlite
+## Simple data storage: file/shared preferences/sqlite
 1. File, shared preferences: http://developer.android.com/intl/zh-cn/training/basics/data-storage/shared-preferences.html http://developer.android.com/intl/zh-cn/training/basics/data-storage/files.html
 2. Sqlite: http://developer.android.com/intl/zh-cn/training/basics/data-storage/databases.html
 3. Material designs app compat library: FloatingActionButton, SnackBar, CoordinatorLayout, AppBarLayout,     NavigationDrawer
     * http://android-developers.blogspot.com/2015/05/android-design-support-library.html
     * http://hmkcode.com/material-design-app-android-design-support-library-appcompat/
     * http://android-developers.blogspot.com/2014/10/appcompat-v21-material-design-for-pre.html
-### Network communication
+## Network communication
 1. Synchronous vs Asynchronous: http://www.javatpoint.com/understanding-synchronous-vs-asynchronous
 2. Basic about HTTP: http://www.tutorialspoint.com/http/index.htm
 3. AsyncTask: http://developer.android.com/intl/zh-cn/training/basics/network-ops/index.html
 4. Loader:   http://developer.android.com/intl/zh-cn/guide/components/loaders.html
 5. Network libraries: Volley, Retrofit…: http://developer.android.com/intl/zh-cn/training/volley/index.html https://guides.codepath.com/android/Consuming-APIs-with-Retrofit
 6. Questions: how to handle long running task? how to handle configuration changed while a request is processing?
-### Location and sensors:
+## Location and sensors:
 1. GPS and maps: http://developer.android.com/intl/zh-cn/training/location/index.html
 2. Other sensors: http://developer.android.com/intl/zh-cn/guide/topics/sensors/index.html
-### How to sign your app/ upload to Playstore:
+## How to sign your app/ upload to Playstore:
 https://developer.android.com/intl/zh-cn/tools/publishing/publishing_overview.html
 # Intermediates Android
 ______
@@ -100,7 +100,7 @@ ______
 11. App permissions.
 12. Google play services: GCM, App Invites, Place API, Analytics…
 13. Basic testing technique: unit test/UI test.
-## Advanced Android
+# Advanced Android
 1. AppWidget
 2. NFC/Bluetooth
 3. SyncAdapter
@@ -111,11 +111,11 @@ ______
 8. Dependency injection
 9. Reactive Java/Android
 1. Android Wear/Android TV/Android Auto
-## Bonus
+# Bonus
 1. Some architecture to care about: MVP, MVVM…
 2. More gradle configurations
 3. Continuous integration/delivery
 
-## References:
+# References:
 1. https://developer.android.com/intl/zh-cn/training/index.html
 2. https://guides.codepath.com/android
