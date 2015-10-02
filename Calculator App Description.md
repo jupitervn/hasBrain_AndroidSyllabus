@@ -24,6 +24,6 @@ Implement a simple calculator of positive numbers that has this UI:
 
 
 ## Bonus:
-+ Result is calculated on the fly while user inputs operands and operators.
++ Result is calculated on the fly while user inputs operands and operators. If the expression is invalid then the last result should be kept.
 + Supports negative numbers.
 + Supports more operators if you want.
