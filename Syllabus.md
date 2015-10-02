@@ -29,16 +29,21 @@
     2. Fragment: Purpose of fragment? How to add a fragment? setRetainInstance()? http://developer.android.com/intl/zh-cn/guide/components/fragments.html
     3. Lifecycle of these components when configuration changes or app gets killed by system? https://github.com/xxv/android-lifecycle
 4. UI controls: Button, EditText, TextView, SeekBar, CheckBox, AutocompleteTextView...
-Learn about Android input controls: http://developer.android.com/intl/zh-cn/guide/topics/ui/controls.html
-Should know some common attributes and listeners of each control
-5. Intent and intent filters: What is intent, kind of intent, intent filter and intent matching http://developer.android.com/intl/zh-cn/guide/components/intents-filters.html
-6. Basic layouts: FrameLayout, LinearLayout, RelativeLayout
-    1. Main layouts of Android http://developer.android.com/intl/zh-cn/guide/topics/ui/declaring-layout.html
+    1. Learn about Android input controls: http://developer.android.com/intl/zh-cn/guide/topics/ui/controls.html
+    2. Should know some common attributes and listeners of each control
+5. Basic layouts: FrameLayout, LinearLayout, RelativeLayout
+    1. Main layouts of Android: http://developer.android.com/intl/zh-cn/guide/topics/ui/declaring-layout.html
     2. Additional layouts: GridLayout, PercentageLayout 
         * http://developer.android.com/intl/zh-cn/reference/android/widget/GridLayout.html
         * https://developer.android.com/intl/zh-cn/reference/android/support/percent/PercentFrameLayout.html
     3. Layout performance and optimization http://developer.android.com/intl/zh-cn/training/improving-layouts/optimizing-layout.html
-7. Access resources and builds app that supports multiple devices: http://developer.android.com/intl/zh-cn/guide/topics/resources/index.html 
+
+
+    #### App To Build: [Calculator App Description](Calculator App Description) ####
+
+
+6. Intent and intent filters: What is intent, kind of intent, intent filter and intent matching http://developer.android.com/intl/zh-cn/guide/components/intents-filters.html
+7. Access resources and builds app that supports multiple devices: http://developer.android.com/intl/zh-cn/guide/topics/resources/index.html
     1. How to support multiple devices with different screen sizes.
     2. How to supports multiple languages
 8. Listview/ExpandableListView/GridView/Recylerview and recycle mechanism
@@ -113,6 +118,4 @@ Should know some common attributes and listeners of each control
 ## References:
 1. https://developer.android.com/intl/zh-cn/training/index.html
 2. https://guides.codepath.com/android
-
-
 
