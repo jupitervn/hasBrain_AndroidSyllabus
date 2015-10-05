@@ -13,6 +13,7 @@ ______
         http://www.ntu.edu.sg/home/ehchua/programming/java/J3b_OOPInheritancePolymorphism.html
 3. Java collections: List/Set/Map/Queue: <https://docs.oracle.com/javase/tutorial/collections/>
 4. Generic: https://docs.oracle.com/javase/tutorial/java/generics/
+### Code conventions: https://source.android.com/source/code-style.html
 # **Basic Android**
 ______
 ## Setup Environment
