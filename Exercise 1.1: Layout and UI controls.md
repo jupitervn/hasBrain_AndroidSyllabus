@@ -20,7 +20,6 @@
 * `Next` Button should have background color of **#FF4081**
 
 ### SignUpStep2Activity requirements:
-* When user change the value of `Salary` seekbar, the label above is also updated with the following text "Your salary: x dollars"
 * User can select multiple kinds of sport that they like.
 
 ## References:
