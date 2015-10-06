@@ -20,6 +20,7 @@
 * `Next` Button should have background color of **#FF4081**
 
 ### SignUpStep2Activity requirements:
+* Salary is increased by a step of 100 dollars.
 * User can select multiple kinds of sport that they like.
 
 ## References:
