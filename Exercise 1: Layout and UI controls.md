@@ -18,7 +18,6 @@
 * `PhoneNumber` textfield only allows to input phone number.
 * Only `Male` or `Female` can be chosen.
 * `Next` Button should have background color of **#FF4081**
-* 
 
 ### SignUpStep2Activity requirements:
 * When user change the value of `Salary` seekbar, the label above is also updated with the following text "Your salary: x dollars"
