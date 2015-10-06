@@ -13,7 +13,9 @@ ______
         http://www.ntu.edu.sg/home/ehchua/programming/java/J3b_OOPInheritancePolymorphism.html
 3. Java collections: List/Set/Map/Queue: <https://docs.oracle.com/javase/tutorial/collections/>
 4. Generic: https://docs.oracle.com/javase/tutorial/java/generics/
-### Code conventions: https://source.android.com/source/code-style.html
+### Proposed code conventions: 
+* https://source.android.com/source/code-style.html
+* http://www.cs.dartmouth.edu/~campbell/cs65/guide.pdf
 # **Basic Android**
 ______
 ## Setup Environment
@@ -23,7 +25,8 @@ ______
     * http://code.tutsplus.com/tutorials/getting-started-with-android-studio--mobile-22958
     * https://developer.android.com/intl/zh-cn/tools/debugging/index.html
     * https://developer.android.com/intl/zh-cn/sdk/installing/studio-tips.html
-4. Basic Gradle configs: Should know how to config a basic Android application: minSDK, compileSDK, packageName, dependencies http://tools.android.com/tech-docs/new-build-system/user-guide
+4. Git and Github: https://try.github.io/
+5. Basic Gradle configs: Should know how to config a basic Android application: minSDK, compileSDK, packageName, dependencies http://tools.android.com/tech-docs/new-build-system/user-guide
 ## App fundamentals and manifest file
 1. Should know 4 type of app components. http://developer.android.com/intl/zh-cn/guide/components/fundamentals.html
 2. Should know what is manifest file and which can be configured inside that file. http://developer.android.com/intl/zh-cn/guide/topics/manifest/manifest-intro.html
