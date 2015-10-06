@@ -16,5 +16,7 @@
     + Textfield is invalid then show: "Email is invalid" or "PhoneNumber is invalid"
 
 ## SignUpStep2Activity requirements:
-* Slara
+* When user change the value of `Salary` seekbar, the label above is also updated with the following text "Your salary: {x} dollars".
+* User must select one kind of sports before presses 'DONE` button.
+* Press `DONE` button should close the app.
 
