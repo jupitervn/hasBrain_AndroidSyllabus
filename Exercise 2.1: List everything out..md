@@ -4,7 +4,9 @@
 ## Requirements:
 * Clone the initial code at:
 * Display a list of posts with the UI below:
+
 ![layout.png](https://bitbucket.org/repo/AARp7y/images/2963029812-layout.png)
+
 * Each post item will show the post's score, title, author, no of comments, domain of the post.
 * Sticky post will have green-colored title.
 * Click on post item will open another activity `PostViewActivity` that contains a webview and show the post content.
