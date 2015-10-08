@@ -8,7 +8,8 @@
 ![layout.png](https://bitbucket.org/repo/AARp7y/images/2963029812-layout.png)
 
 * Each post item will show the post's score, title, author, no of comments, domain of the post.
-* Sticky post will have green-colored title.
+* Sticky post will have green-colored(`#387801`) title.
+* Author name and subreddit name should have dark blue color (`#0A295A`)
 * Click on post item will open another activity `PostViewActivity` that contains a webview and show the post content.
 
 ## References:
