@@ -12,6 +12,7 @@
 * Author name and subreddit name should have dark blue color (`#0A295A`)
 * Click on post item will open another activity `PostViewActivity` that contains a webview and show the post content.
 * Add a view at the bottom of the list that shows the following message, click on that view will also open `PostViewActivity` with this link: https://www.reddit.com/r/androiddev/
+
 ![layout_header.png](https://bitbucket.org/repo/AARp7y/images/4010779472-layout_header.png)
 
 ## References:
