@@ -1,5 +1,5 @@
 ## Objectives:
-* Learn how `recyclerview` can replace both listview and gridview.
+* Learn how **RecyclerView** can replace both listview and gridview.
 
 ## Requirements:
 * Implements both [Exercise 2.1](Exercise 2.1: List everything out.) and [Exercise 2.2](Exercise 2.2: Move list to grid.) using RecyclerView.
