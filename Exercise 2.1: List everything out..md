@@ -21,3 +21,4 @@
 
 ## Bonus:
 * See if you can increase the space between items inside the list.
+* Can you display post's author and post's subreddit using only one textview?
