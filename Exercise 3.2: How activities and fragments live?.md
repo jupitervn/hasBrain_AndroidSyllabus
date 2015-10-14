@@ -30,7 +30,10 @@ Gaming landscape layout
 * After press `START`, `START` button is disabled while `TAP` button is enabled.
 * After 10sec, the `TAP` button will be disabled and the result will be updated in the high score panel.
 * The highscore panel should be implemented inside `TapCountResultFragment` a fragment.
-* If user rotates the phone(or press `HOME`) while a game is playing (clock is ticking) then that game should be paused and `START` button becomes `RESUME` button. After user presses `RESUME`, the game will continue.
+* If user rotates the phone(or press `HOME`):
+    + While a game is playing (clock is ticking) then that game should be paused and `START` button becomes `RESUME` button. After user presses `RESUME`, the game will continue.
+    + If a game has stopped then the last tap count should be preserved.
+
 * Highscore list must be preserved even if user rotates the phone (or presses `HOME`).
 
 ## References:
