@@ -4,7 +4,7 @@
 
 ## Requirements:
 * Implements a simple game that counts how many times a person can tap in 10sec.
-* Checkout the skeleton code at:
+* Checkout the skeleton code at: [https://github.com/jupitervn/Android_HowFastAreYou](https://github.com/jupitervn/Android_HowFastAreYou)
 * The UI should look like these below screenshots:
 
 Default portrait layout
