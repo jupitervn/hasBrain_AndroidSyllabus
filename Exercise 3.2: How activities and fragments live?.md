@@ -41,6 +41,7 @@ Gaming landscape layout
 * Fragment lifecycle: http://developer.android.com/reference/android/app/Fragment.html
 * Complete diagram of activity and fragment lifecycle https://github.com/xxv/android-lifecycle
 * How to handle configuration change: http://developer.android.com/guide/topics/resources/runtime-changes.html
+* Comunicate between activity and fragment: http://developer.android.com/training/basics/fragments/communicating.html
 
 ## Bonus:
 * Log all activities and fragments lifecycle event to see how everything works.
