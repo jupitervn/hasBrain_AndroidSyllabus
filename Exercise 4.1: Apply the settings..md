@@ -3,7 +3,7 @@
 * Learn how to use `SwitchCompat`
 
 ## Requirements:
-* Apply some more settings to your game at [Exercise 3.2](Exercise 3.2: How activities and fragments live?)
+* Apply some more settings to your game at [Exercise 3.2](Exercise 3.1: Fragment)
 * `SettingsActivity` can be accessed by pressing the top-right menu button.
 * The UI should look like this:
 
