@@ -3,7 +3,7 @@
 * Could you list out how many ways to store data inside an Android app?
 
 ## Requirements:
-* Use your last code from [Exercise 3.2](Exercise 3.2: How activities and fragments live?)
+* Use your last code from [Exercise 3.2: How activities and fragments live?](https://bitbucket.org/cdv1010/hasbrain_androiddocumentation/wiki/Exercise%203.2:%20How%20activities%20and%20fragments%20live%3F)
 * Now your highscore table is not preserved, find a way to store them so that the next time user comes to the app, he will see the current highscore.
 * Add a button above the highscore table to reset the highscore.
 * Store the highscore tablet using sqlite database.
