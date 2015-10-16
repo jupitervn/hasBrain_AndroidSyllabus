@@ -4,9 +4,11 @@
 * Learn how to write a simple image loader.
 
 ## Requirements:
+* Image processing is a very expensive operation. It should not be run on main thread.
 * 
 
 ## References:
+* Processes, threads, async tasks: http://developer.android.com/guide/components/processes-and-threads.html
 * How to display bitmaps on views https://developer.android.com/training/displaying-bitmaps/index.html
 * Some libraries to display image:
     + Picasso: http://square.github.io/picasso/
