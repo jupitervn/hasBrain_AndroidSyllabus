@@ -3,7 +3,7 @@
 * Learn how to use `SwitchCompat`
 
 ## Requirements:
-* Apply some more settings to your game at [Exercise 3.2](https://bitbucket.org/cdv1010/hasbrain_androiddocumentation/wiki/Exercise%203.2:%20How%20activities%20and%20fragments%20live%3F)
+* Apply some more settings to your game at https://bitbucket.org/cdv1010/hasbrain_androiddocumentation/wiki/Exercise%203.2:%20How%20activities%20and%20fragments%20live%3F
 * `SettingsActivity` can be accessed by pressing the top-right menu button.
 * The UI should look like this:
 
