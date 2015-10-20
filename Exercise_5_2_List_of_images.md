@@ -24,3 +24,4 @@
 ## Bonus:
 * Check if you can improve the performance by caching the images in memory.
 * Use some of the libraries above to display images. Learn how to config them.
+ No newline at end of file

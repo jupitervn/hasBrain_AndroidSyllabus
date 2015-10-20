@@ -6,7 +6,7 @@
 * Learn how to use simple layouts: LinearLayout, RelativeLayout, FrameLayout, TableLayout
 * Learn how to use simple android UI controls: EditText, TextView, Button, CheckBox, RadioButton, Seekbar.
 
-## Requirements: 
+## Requirements:
 Implements these two layouts in two activities: SignUpStep1Activity and SignUpStep2Activity.
 
 ![first_layout.png](https://bitbucket.org/repo/AARp7y/images/3337010448-first_layout.png)
