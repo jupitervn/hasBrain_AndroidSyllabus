@@ -13,13 +13,14 @@
     + `comic`: https://www.reddit.com/r/comics/hot.json
 * The UI should be implemented as following:
 
-![Tab layout](images/ex7/tab_layout.png)
+![Tab layout](images/ex6/tab_layout.png)
 
-![Tab layout landscape](images/ex7/tab_layout_land.png)
+![Tab layout landscape](images/ex6/tab_layout_land.png)
 
 ## References:
 * How to use `TabLayout`: https://guides.codepath.com/android/Google-Play-Style-Tabs-using-TabLayout
 
 ## Bonus:
 * Try both modes of the tab layout.
+* Try to add an icon for each tab.
 * See if you can include `ViewPager` and provides swipe action to select tabs.

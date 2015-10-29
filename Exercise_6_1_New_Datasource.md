@@ -15,18 +15,18 @@
 * There will be a delay while waiting for the request to be made, please use `SwipeRefreshLayout` to show a loading indicator and provides `pull to refresh` action.
 > Pull to refresh is an action when user pulls down on the list, the data will be refreshed with the latest one.
 
-![Pull to refresh](images/ex7/refresh_layout.png)
+![Pull to refresh](images/ex6/refresh_layout.png)
 
 * Loading indicator should be hidden after data has been pulled and displayed on UI.
 * Users always want to read a lot, so developer would provides a way to load more posts for them.
     + When user scrolls to the end of the list, call the API to get more posts.
     + Show a loading indicator similar to the screenshot below while loading and replace it by new data when complete.
 
-![Load more indicator](images/ex7/load_more.png)
+![Load more indicator](images/ex6/load_more.png)
 
 * If the network call for the first page has failed (by multiple reasons): please show a UI like this:
 
-![Empty layout](images/ex7/retry.png)
+![Empty layout](images/ex6/retry.png)
 
 * When user pull to refresh, what is currently displayed on the UI will be discarded and user will see the first page of posts again.
 
