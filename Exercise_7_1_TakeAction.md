@@ -24,6 +24,10 @@
 
 ## References
 * How to use actionbar: http://developer.android.com/guide/topics/ui/actionbar.html
+* Themes and styles:
+    + http://developer.android.com/guide/topics/ui/themes.html
+    + https://github.com/codepath/android_guides/wiki/Styles-and-Themes
+* How to style an action bar: https://guides.codepath.com/android/Extended-ActionBar-Guide
 
 ## Bonus:
 * Can you use `Toolbar` to act as `ActionBar`? http://www.vogella.com/tutorials/AndroidActionBar/article.html
