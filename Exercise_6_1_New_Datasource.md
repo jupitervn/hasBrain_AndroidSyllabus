@@ -5,7 +5,7 @@
 > Use your knowledge about threads and processes to do this.
 
 ## Requirements:
-* Level up your app from [Exercise 2.1](Exercise_2_1_List_everything_out)
+* Level up your app from [Exercise 2.1](Exercise_2_1_List_everything_out.md)
 * Use `reddit` API to get reddit posts instead of read from local json file.
 * The documentation for `reddit` API is located at: https://www.reddit.com/dev/api
 * The API we will use is: https://www.reddit.com/r/androiddev/new.json

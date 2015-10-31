@@ -11,9 +11,10 @@
 ![Landscape post list](images/ex7/ex73/post_list_land.png)
 
 * Add the `Bookmark` menu to the navigation drawer.
+
 ![Portrait menu](images/ex7/ex73/bookmark_menu.png)
 
-* Choose `Bookmark` menu will open a page that list all the bookmarked posts.
+* Choose `Bookmark` menu will open a page that list all the bookmarked posts, the UI of this page should be the same as other topics' pages.
 * Long press on an item inside `Bookmark` page will trigger the contextual menu like this:
 
 ![Portrait contextual Menu](images/ex7/ex73/selected_portrait.png)

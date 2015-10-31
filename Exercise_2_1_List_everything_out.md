@@ -4,7 +4,7 @@ ______
 * Learn how to use ListView to display a list of data.
 
 ## Requirements:
-* Clone the initial code at:
+* Clone the initial code at: https://github.com/jupitervn/Android_AreYouAndroidDev/tree/master_network_calls
 * Display a list of posts with the UI below:
 
 ![layout.png](https://bitbucket.org/repo/AARp7y/images/3884843974-layout.png)
