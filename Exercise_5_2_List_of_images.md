@@ -4,11 +4,11 @@
 * Learn how to write a simple image loader that can process the image off UI thread.
 
 ## Requirements:
-* Check out skeleton code at:
+* Check out skeleton code at: https://github.com/jupitervn/Android_CarShowCase/tree/master
 * The project contains a list of car images which have size of 1280x960px.
 * Display a list of cars to user with has the UI like below:
 
-![carlist.png](https://bitbucket.org/repo/AARp7y/images/2707954630-carlist.png)
+![carlist.png](images/ex5/ex52/carlist.png)
 
 * Implements `ImageLoader` interface to read bitmaps from `raw` folder, scale them and display them in a list.
 

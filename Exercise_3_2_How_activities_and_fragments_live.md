@@ -3,25 +3,25 @@
 * Learn how to handle configuration change(rotation, keyboard hidden...)
 
 ## Requirements:
-* Implements a simple game that counts how many times a person can tap in 10sec.
+* Implements a simple game that counts how many times a person can tap in **10sec**.
 * Checkout the skeleton code at: [https://github.com/jupitervn/Android_HowFastAreYou](https://github.com/jupitervn/Android_HowFastAreYou)
 * The UI should look like these below screenshots:
 
 Default portrait layout
 
-![default_layout_por.png](https://bitbucket.org/repo/AARp7y/images/1821454335-default_layout_por.png)
+![default_layout_por.png](images/ex3/ex31/default_layout_por.png)
 
 Default landscape layout
 
-![default_layout_land.png](https://bitbucket.org/repo/AARp7y/images/1386731440-default_layout_land.png)
+![default_layout_land.png](images/ex3/ex31/default_layout_land.png)
 
 Gaming portrait layout
 
-![gaming_layout_por.png](https://bitbucket.org/repo/AARp7y/images/845729877-gaming_layout_por.png)
+![gaming_layout_por.png](images/ex3/ex31/gaming_layout_por.png)
 
 Gaming landscape layout
 
-![gaming_layout_land.png](https://bitbucket.org/repo/AARp7y/images/2663761400-gaming_layout_land.png)
+![gaming_layout_land.png](images/ex3/ex31/default_layout_land.png)
 
 
 * The UI contains 2 parts: game part and the high score part.

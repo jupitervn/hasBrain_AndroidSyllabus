@@ -9,13 +9,13 @@
 ## Requirements:
 * Use the existing source code from previous exercises.
 * Write a new activity called SignUpStep3Activity with the following UI
-![step3_ui.png](https://bitbucket.org/repo/AARp7y/images/2716911273-step3_ui.png)
+![step3_ui.png](images/ex1/ex13/step3_ui.png)
 
 * Press `DONE` button inside `SignUpStep2Activity` should bring user to `SignUpStep3Activity`
 * Press `SEND EMAIL` button will open another app with email function(user can choose one if there are multiple apps that match this criteria) to send an email with this format:
     + To: {email}
     + Subject: User's registration info.
-    + Content: 
+    + Content:
 ```
 {firstname}_{lastname}
 {phone_number}

@@ -5,9 +5,9 @@
 * Implements `PostInSectionActivity` to group sticky posts and normal posts into two sections.
 * UI should look like this:
 
-![layout_expandable_normal.png](https://bitbucket.org/repo/AARp7y/images/3135303938-layout_expandable_normal.png)
+![layout_expandable_normal.png](images/ex2/ex23/layout_expandable_normal.png)
 
-![layout_expandable_expanded.png](https://bitbucket.org/repo/AARp7y/images/499645851-layout_expandable_expanded.png)
+![layout_expandable_expanded.png](images/ex2/ex23/layout_expandable_expanded.png)
 
 * Tap on section will expand/collapse a list of posts belongs to that section.
 

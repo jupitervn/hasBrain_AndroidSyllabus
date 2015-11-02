@@ -9,9 +9,9 @@
 ## Requirements:
 Implements these two layouts in two activities: SignUpStep1Activity and SignUpStep2Activity.
 
-![first_layout.png](https://bitbucket.org/repo/AARp7y/images/3337010448-first_layout.png)
+![first_layout.png](images/ex1/ex11/first_layout.png)
 
-![second_layout.png](https://bitbucket.org/repo/AARp7y/images/889249033-second_layout.png)
+![second_layout.png](images/ex1/ex11/second_layout.png)
 
 ### SignUpStep1Activity requirements
 * `FirstName` textfield and `Lastname` textfield should have equals width.

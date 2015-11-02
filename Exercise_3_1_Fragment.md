@@ -3,7 +3,7 @@
 * Learn how to add fragment to activity
 
 ## Requirements:
-* Implements [Exercise 1] using fragments.
+* Implements [Exercise 1](Exercise_1_1_Layout_and_UI_controls.md) using fragments.
 * The main activity should be `UserSignUpFragmentActivity`
 
 ## References:
