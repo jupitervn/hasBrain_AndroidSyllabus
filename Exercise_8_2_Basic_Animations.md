@@ -10,6 +10,7 @@
 
 ### View Animations and layout animations:
 *  Implements an app with UI like this:
+
 ![App UI](images/ex8/ex82/animation_layout.png)
 * There are 2 spinners inside the app that contains:
 
@@ -25,6 +26,7 @@
 * The type of interpolator is the name of interpolator class that Android already supports
 * Press `START` will animate all the views above the spinners with the selected animation and interpolator.
 * See the below gifs for animation types:
+
     ![Alpha](images/ex8/ex82/alpha_animation.gif)
 
     Alpha animation
