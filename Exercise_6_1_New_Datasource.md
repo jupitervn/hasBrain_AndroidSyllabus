@@ -9,10 +9,12 @@
 * Use `reddit` API to get reddit posts instead of read from local json file.
 * The documentation for `reddit` API is located at: https://www.reddit.com/dev/api
 * The API we will use is: https://www.reddit.com/r/androiddev/new.json
+
 > Please notice how to get more posts by using `after` parameter.
 
 * Implements another class called `NetworkBasedFeedDataStore` to make HTTP request and get reddit posts. (The skeleton code for this class can be found here: [NetworkBasedFeedDataStore](https://github.com/jupitervn/Android_AreYouAndroidDev/blob/master_network_calls/app/src/main/java/com/hasbrain/areyouandroiddev/datastore/NetworkBasedFeedDatastore.java))
 * There will be a delay while waiting for the request to be made, please use `SwipeRefreshLayout` to show a loading indicator and provides `pull to refresh` action.
+
 > Pull to refresh is an action when user pulls down on the list, the data will be refreshed with the latest one.
 
 ![Pull to refresh](images/ex6/refresh_layout.png)

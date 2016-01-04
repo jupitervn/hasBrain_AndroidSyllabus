@@ -5,3 +5,4 @@ _______
 1. [Different types of context](https://possiblemobile.com/2013/06/context/)
 1. [Android guides](https://guides.codepath.com/android/)
 1. [Android weekly](http://androidweekly.net/)
+1. [Java concurrency](http://tutorials.jenkov.com/java-concurrency/)

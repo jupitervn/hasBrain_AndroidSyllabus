@@ -1,5 +1,5 @@
 ## Objectives
-* Attracts user by using animations.
+* Attracts users by using animations.
 
 ## Requirements
 ### Activity Transitions:
